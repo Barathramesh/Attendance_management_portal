@@ -1,5 +1,10 @@
-This is student management portal
-First download node and use npm install then use npm init -y
-Replace the environment variables with your values
-create your own database 
-Run this project by npm start
+# Student management portal
+
+# Setup
+1. npm install 
+2. npm init -y
+3. Create .env file and replace the environment variables with your values
+4. npm start
+
+## Database
+Create your own database
